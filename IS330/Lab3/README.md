@@ -4,7 +4,7 @@ The tasks were:
 
 **Cursors:**
 
-* Create a cursor to iterate through the last name and full name of the rows in the Customer table in reverse alphabetical order.
+* Create a cursor to iterate through the last name and full name of the rows in the Customer table in *reverse alphabetical order*.
 * Write a nested cursor iterating through the product categories placed under their parent categories.
 
 **Functions:**
