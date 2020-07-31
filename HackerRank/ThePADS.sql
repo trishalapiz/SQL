@@ -1,4 +1,4 @@
-SELECT CONCAT(Name,'(',SUBSTRING(Occupation, 1, 1), ')') 
+SELECT CONCAT(Name,'(', SUBSTRING(Occupation, 1, 1), ')') 
 FROM OCCUPATIONS
 ORDER BY Name
 
