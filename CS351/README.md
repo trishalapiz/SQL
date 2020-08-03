@@ -1,3 +1,7 @@
+# COMPSCI 351 - Fundamentals of Database Systems
+
+## Lab 7 of COMPSCI351
+
 There were TWO tasks in Lab 7 to do:
 
 1. Write a procedure named init which has
